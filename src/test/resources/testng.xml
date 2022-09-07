@@ -3,7 +3,8 @@
 <suite name="All Test Suite">
     <test name="C:/JavaProject/Framework">
         <classes>
-            <class name="tests.searchapartment.SearchApartmentTest"/>
+            <class name="tests.moocenutest.MoocEnuTest"/>
+<!--            <class name="tests.mysitetest.MySiteTest"/>-->
         </classes>
     </test>
 </suite>
